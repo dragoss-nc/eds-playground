@@ -1,0 +1,11 @@
+{
+  "project": "eds-playground",
+  "plugins": [
+    {
+      "id": "library",
+      "title": "Library",
+      "url": "/tools/sidekick/library.html",
+      "environments": ["preview", "edit"]
+    }
+  ]
+}
